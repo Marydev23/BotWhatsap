@@ -1,0 +1,15 @@
+2025/02/26-00:28:56.298 db8 Reusing MANIFEST C:\Users\user\Desktop\bot-erika\frontend\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/02/26-00:28:56.302 db8 Recovering log #278
+2025/02/26-00:28:56.428 db8 Reusing old log C:\Users\user\Desktop\bot-erika\frontend\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000278.log 
+2025/02/26-00:28:56.430 db8 Delete type=2 #277
+2025/02/26-00:29:30.337 1ffc Level-0 table #283: started
+2025/02/26-00:29:30.375 1ffc Level-0 table #283: 73083 bytes OK
+2025/02/26-00:29:30.383 1ffc Delete type=0 #278
+2025/02/26-00:29:30.386 1ffc Manual compaction at level-0 from '\x00>\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00?\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/02/26-00:29:30.387 1ffc Manual compaction at level-1 from '\x00>\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00?\x00\x00\x00' @ 0 : 0; will stop at '\x00>\x0a\x02\x03\x00\x00\x00\x00\x00\x00:@' @ 350319 : 1
+2025/02/26-00:29:30.387 1ffc Compacting 1@1 + 1@2 files
+2025/02/26-00:29:30.892 1ffc Generated table #284@1: 9 keys, 400 bytes
+2025/02/26-00:29:30.892 1ffc Compacted 1@1 + 1@2 files => 400 bytes
+2025/02/26-00:29:30.900 1ffc compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/02/26-00:29:30.903 1ffc Delete type=2 #283
+2025/02/26-00:29:30.905 1ffc Manual compaction at level-1 from '\x00>\x0a\x02\x03\x00\x00\x00\x00\x00\x00:@' @ 350319 : 1 .. '\x00?\x00\x00\x00' @ 0 : 0; will stop at (end)

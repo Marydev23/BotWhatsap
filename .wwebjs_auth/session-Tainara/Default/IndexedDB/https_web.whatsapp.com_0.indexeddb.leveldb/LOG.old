@@ -1,0 +1,24 @@
+2025/02/26-00:28:53.310 c7c Reusing MANIFEST C:\Users\user\Desktop\bot-erika\frontend\.wwebjs_auth\session-Tainara\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/02/26-00:28:53.313 c7c Recovering log #30
+2025/02/26-00:28:54.375 c7c Reusing old log C:\Users\user\Desktop\bot-erika\frontend\.wwebjs_auth\session-Tainara\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000030.log 
+2025/02/26-00:29:33.956 c7c Level-0 table #35: started
+2025/02/26-00:29:34.154 c7c Level-0 table #35: 114973 bytes OK
+2025/02/26-00:29:34.161 c7c Delete type=0 #30
+2025/02/26-00:29:34.164 c7c Manual compaction at level-0 from '\x00\x10\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x11\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/02/26-00:29:34.425 c7c Level-0 table #37: started
+2025/02/26-00:29:34.724 c7c Level-0 table #37: 1683 bytes OK
+2025/02/26-00:29:34.730 c7c Delete type=0 #34
+2025/02/26-00:29:35.492 c7c Manual compaction at level-0 from '\x00\x0e\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0f\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0e\x05\x02\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 9545 : 0
+2025/02/26-00:29:35.492 c7c Compacting 1@0 + 1@1 files
+2025/02/26-00:29:36.250 c7c Generated table #38@0: 3074 keys, 51928 bytes
+2025/02/26-00:29:36.251 c7c Compacted 1@0 + 1@1 files => 51928 bytes
+2025/02/26-00:29:36.255 c7c compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/02/26-00:29:36.258 c7c Delete type=2 #37
+2025/02/26-00:29:36.263 c7c Manual compaction at level-0 from '\x00\x0e\x05\x02\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 9545 : 0 .. '\x00\x0f\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/02/26-00:29:36.264 c7c Manual compaction at level-1 from '\x00\x0e\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0f\x00\x00\x00' @ 0 : 0; will stop at '\x00\x11\x00\x00\xc8\x0d\x00l\x00o\x00c\x00a\x00l\x00_\x00s\x00t\x00o\x00r\x00a\x00g\x00e' @ 5414 : 1
+2025/02/26-00:29:36.264 c7c Compacting 1@1 + 1@2 files
+2025/02/26-00:29:36.473 c7c Generated table #39@1: 1055 keys, 39460 bytes
+2025/02/26-00:29:36.473 c7c Compacted 1@1 + 1@2 files => 39460 bytes
+2025/02/26-00:29:36.478 c7c compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/02/26-00:29:36.481 c7c Delete type=2 #38
+2025/02/26-00:29:36.484 c7c Manual compaction at level-1 from '\x00\x11\x00\x00\xc8\x0d\x00l\x00o\x00c\x00a\x00l\x00_\x00s\x00t\x00o\x00r\x00a\x00g\x00e' @ 5414 : 1 .. '\x00\x0f\x00\x00\x00' @ 0 : 0; will stop at (end)
