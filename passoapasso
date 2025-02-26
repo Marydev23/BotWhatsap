@@ -1,0 +1,27 @@
+Caminho que você pode seguir:
+
+1️⃣ Criar o Backend (Python + Flask ou FastAPI)
+O backend vai processar as mensagens e direcionar para a atendente escolhida. Ele pode ser hospedado no Render, Railway ou AWS.
+
+2️⃣ Criar o Chatbot (Node.js com Socket.io ou Express.js)
+O bot pode rodar com Node.js e se conectar ao backend para processar as mensagens.
+
+3️⃣ Criar a Interface Web (React ou HTML/CSS/JS)
+Se quiser algo moderno e interativo, use React para criar a página do chat.
+Se quiser algo mais simples, um formulário HTML com JavaScript já resolve.
+4️⃣ Hospedar a Página e o Backend
+✅ Frontend (React ou HTML) → Hospedar no Vercel, Netlify ou Firebase Hosting
+✅ Backend (Python com Flask/FastAPI) → Hospedar no Render, Railway ou AWS
+
+Como o Cliente Acessa?
+O cliente recebe um link (exemplo: https://meuchatbot.com).
+Ele entra na página, escolhe uma atendente e começa a conversar.
+Bônus: Melhorando a Experiência
+Banco de Dados: Se quiser salvar conversas, pode usar MongoDB, PostgreSQL ou Firebase.
+Notificações: Enviar alertas para a atendente quando um cliente iniciar um chat.
+
+
+
+
+Ao encerrar conversa : Obrigado por escolher nossa empresa, siga no Instagran. aparecer retorno 24 hs 
+Simulação de credito : 
